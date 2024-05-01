@@ -1,2 +1,2 @@
 # DevOps_docker_course
-This repository is for DevOps docker course
+This repository is for the DevOps docker course
